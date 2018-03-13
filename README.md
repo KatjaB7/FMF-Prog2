@@ -1,2 +1,2 @@
 # FMF-Prog2
-Testni repozitorij
+Testni Repozitorij
